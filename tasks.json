@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Taskk",
+        "status": "done",
+        "createdAt": "2024-09-30 11:22:10.354464",
+        "updatedAt": "2024-09-30 15:16:29.748838"
+    },
+    {
+        "id": 2,
+        "description": "Beli Baju",
+        "status": "todo",
+        "createdAt": "2024-09-30 11:30:51.158081",
+        "updatedAt": "2024-09-30 11:30:51.158081"
+    }
+]
